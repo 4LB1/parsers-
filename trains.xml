@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<timetable>
+    <train id="072A">
+        <departureStation>Москва (Ленинградский вокзал)</departureStation>
+        <arrivalStation>Санкт-Петербург (Московский вокзал)</arrivalStation>
+        <departureTime>08:15</departureTime>
+        <arrivalTime>12:45</arrivalTime>
+    </train>
+    <train id="116C">
+        <departureStation>Адлер</departureStation>
+        <arrivalStation>Москва (Павелецкий вокзал)</arrivalStation>
+        <departureTime>10:30</departureTime>
+        <arrivalTime>21:10</arrivalTime>
+    </train>
+    <train id="002E">
+        <departureStation>Москва (Ярославский вокзал)</departureStation>
+        <arrivalStation>Владивосток</arrivalStation>
+        <departureTime>13:20</departureTime>
+        <arrivalTime>06:00</arrivalTime>
+    </train>
+    <train id="747A">
+        <departureStation>Санкт-Петербург (Главный)</departureStation>
+        <arrivalStation>Москва (Октябрьская)</arrivalStation>
+        <departureTime>17:40</departureTime>
+        <arrivalTime>22:05</arrivalTime>
+    </train>
+    <train id="030J">
+        <departureStation>Казань (Пассажирская)</departureStation>
+        <arrivalStation>Москва (Казанский вокзал)</arrivalStation>
+        <departureTime>21:50</departureTime>
+        <arrivalTime>07:10</arrivalTime>
+    </train>
+</timetable>
