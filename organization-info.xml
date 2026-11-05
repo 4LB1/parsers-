@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<organization>
+    <orgName>TechCorp Solutions</orgName>
+    <inn>7701234567</inn>
+    <departments>
+        <department>
+            <departmentNumber>D01</departmentNumber>
+            <departmentName>IT</departmentName>
+            <location>New York</location>
+            <employees>
+                <employee>
+                    <employeeNumber>E01</employeeNumber>
+                    <employeeName>Tom</employeeName>
+                </employee>
+                <employee>
+                    <employeeNumber>E02</employeeNumber>
+                    <employeeName>Mary</employeeName>
+                    <managerNumber>E01</managerNumber>
+                </employee>
+            </employees>
+        </department>
+        <department>
+            <departmentNumber>D02</departmentNumber>
+            <departmentName>HR</departmentName>
+            <location>London</location>
+            <employees>
+                <employee>
+                    <employeeNumber>E03</employeeNumber>
+                    <employeeName>Anna</employeeName>
+                </employee>
+            </employees>
+        </department>
+    </departments>
+</organization>

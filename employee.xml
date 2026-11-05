@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Employees>
+      
+  
+  <Employee id="1">
+    <name>Елизавета</name>
+    <gender>female</gender>
+    <age>25</age>
+    <role>Менеджер</role>
+    <department>IT</department>
+    <salary currency="USD">1500.0</salary>
+  </Employee>
+  <Employee id="3">
+    <name>Владимир</name>
+    <gender>мужской</gender>
+    <age>45</age>
+    <role>Очень большой начальник</role>
+    <department>Директорский</department>
+    <salary currency="RUB">1000.0</salary>
+  </Employee>
+  
+</Employees>

@@ -38,7 +38,6 @@ public class DeleteEmployee {
         for (int i = 0; i < list.getLength(); i++) {
             Element el = (Element) list.item(i);
             if (el.getAttribute("id").equals(String.valueOf(id))) {
-                // Удаляем пробельный узел перед элементом (для красоты форматирования)
                 Node prev = el.getPreviousSibling();
                 if (prev != null && prev.getNodeType() == Node.TEXT_NODE && prev.getNodeValue().trim().isEmpty()) {
                     doc.getDocumentElement().removeChild(prev);
