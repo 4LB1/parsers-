@@ -13,6 +13,11 @@
       <version>1.18.42</version>
       <scope>provided</scope>
     </dependency>
+    <dependency>
+      <groupId>com.fasterxml.jackson.module</groupId>
+      <artifactId>jackson-module-jakarta-xmlbind-annotations</artifactId>
+      <version>2.22.4</version>
+    </dependency>
   </dependencies>
   <build>
     <plugins>
